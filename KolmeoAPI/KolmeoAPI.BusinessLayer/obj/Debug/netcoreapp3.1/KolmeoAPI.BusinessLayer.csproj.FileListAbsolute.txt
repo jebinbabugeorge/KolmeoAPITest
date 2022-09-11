@@ -1,0 +1,17 @@
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.BusinessLayer\bin\Debug\netcoreapp3.1\KolmeoAPI.BusinessLayer.deps.json
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.BusinessLayer\bin\Debug\netcoreapp3.1\KolmeoAPI.BusinessLayer.dll
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.BusinessLayer\bin\Debug\netcoreapp3.1\KolmeoAPI.BusinessLayer.pdb
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.BusinessLayer\bin\Debug\netcoreapp3.1\KolmeoAPI.Data.dll
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.BusinessLayer\bin\Debug\netcoreapp3.1\KolmeoAPI.DataAccessLayer.dll
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.BusinessLayer\bin\Debug\netcoreapp3.1\KolmeoAPI.Models.dll
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.BusinessLayer\bin\Debug\netcoreapp3.1\KolmeoAPI.DataAccessLayer.pdb
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.BusinessLayer\bin\Debug\netcoreapp3.1\KolmeoAPI.Models.pdb
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.BusinessLayer\bin\Debug\netcoreapp3.1\KolmeoAPI.Data.pdb
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.BusinessLayer\obj\Debug\netcoreapp3.1\KolmeoAPI.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.BusinessLayer\obj\Debug\netcoreapp3.1\KolmeoAPI.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.BusinessLayer\obj\Debug\netcoreapp3.1\KolmeoAPI.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.BusinessLayer\obj\Debug\netcoreapp3.1\KolmeoAPI.BusinessLayer.AssemblyInfo.cs
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.BusinessLayer\obj\Debug\netcoreapp3.1\KolmeoAPI.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.BusinessLayer\obj\Debug\netcoreapp3.1\KolmeoAPI.BusinessLayer.csproj.CopyComplete
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.BusinessLayer\obj\Debug\netcoreapp3.1\KolmeoAPI.BusinessLayer.dll
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.BusinessLayer\obj\Debug\netcoreapp3.1\KolmeoAPI.BusinessLayer.pdb

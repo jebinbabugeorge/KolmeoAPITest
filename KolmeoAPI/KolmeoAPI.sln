@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KolmeoAPI", "KolmeoAPI\KolmeoAPI.csproj", "{4660D46C-E31A-4261-BB66-E9FBCB526CDD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KolmeoAPI.BLayer", "KolmeoAPI.BusinessLayer\KolmeoAPI.BLayer.csproj", "{BAAD5DE4-0563-49D9-8821-A58B29609BE2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KolmeoAPI.Models", "KolmeoAPI.Models\KolmeoAPI.Models.csproj", "{9C954193-A8D9-4496-81DD-C84AB5B2F0BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KolmeoAPI.Data", "KolmeoAPI.Data\KolmeoAPI.Data.csproj", "{988C8EB9-6287-4D7E-AC36-525C5B1DE205}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KolmeoAPI.DALayer", "KolmeoAPI.DataAccessLayer\KolmeoAPI.DALayer.csproj", "{845FDD26-E353-4313-9266-318CBD42AE04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KolmeoAPI.Tests", "KolmeoAPI.Tests\KolmeoAPI.Tests.csproj", "{0C9681EC-1EC2-44D6-9C00-F60B6C6FF0D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4660D46C-E31A-4261-BB66-E9FBCB526CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4660D46C-E31A-4261-BB66-E9FBCB526CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4660D46C-E31A-4261-BB66-E9FBCB526CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4660D46C-E31A-4261-BB66-E9FBCB526CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAAD5DE4-0563-49D9-8821-A58B29609BE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAAD5DE4-0563-49D9-8821-A58B29609BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAAD5DE4-0563-49D9-8821-A58B29609BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAAD5DE4-0563-49D9-8821-A58B29609BE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C954193-A8D9-4496-81DD-C84AB5B2F0BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C954193-A8D9-4496-81DD-C84AB5B2F0BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C954193-A8D9-4496-81DD-C84AB5B2F0BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C954193-A8D9-4496-81DD-C84AB5B2F0BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{988C8EB9-6287-4D7E-AC36-525C5B1DE205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988C8EB9-6287-4D7E-AC36-525C5B1DE205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988C8EB9-6287-4D7E-AC36-525C5B1DE205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988C8EB9-6287-4D7E-AC36-525C5B1DE205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{845FDD26-E353-4313-9266-318CBD42AE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845FDD26-E353-4313-9266-318CBD42AE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845FDD26-E353-4313-9266-318CBD42AE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845FDD26-E353-4313-9266-318CBD42AE04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C9681EC-1EC2-44D6-9C00-F60B6C6FF0D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C9681EC-1EC2-44D6-9C00-F60B6C6FF0D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C9681EC-1EC2-44D6-9C00-F60B6C6FF0D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C9681EC-1EC2-44D6-9C00-F60B6C6FF0D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9602B8F0-B021-4A65-BFFF-48C56F94CBEC}
+	EndGlobalSection
+EndGlobal
