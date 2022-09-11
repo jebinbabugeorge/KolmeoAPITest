@@ -1,0 +1,9 @@
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.Models\bin\Debug\netcoreapp3.1\KolmeoAPI.Models.deps.json
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.Models\bin\Debug\netcoreapp3.1\KolmeoAPI.Models.dll
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.Models\bin\Debug\netcoreapp3.1\KolmeoAPI.Models.pdb
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.Models\obj\Debug\netcoreapp3.1\KolmeoAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.Models\obj\Debug\netcoreapp3.1\KolmeoAPI.Models.AssemblyInfoInputs.cache
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.Models\obj\Debug\netcoreapp3.1\KolmeoAPI.Models.AssemblyInfo.cs
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.Models\obj\Debug\netcoreapp3.1\KolmeoAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.Models\obj\Debug\netcoreapp3.1\KolmeoAPI.Models.dll
+C:\Users\jebin.babu\source\repos\Kolmeo\KolmeoAPITest\KolmeoAPI\KolmeoAPI.Models\obj\Debug\netcoreapp3.1\KolmeoAPI.Models.pdb
